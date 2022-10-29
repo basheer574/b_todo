@@ -1,10 +1,11 @@
-# b_todo
+# BTODO
 
 Todo application with Floor library And Bloc State Management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I Just Used:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Bloc a predictable state management library for Dart](https://bloclibrary.dev/#/)
+- [Floor Database](https://docs.flutter.dev/cookbook](https://pub.dev/packages/floor)
+- [Logger](https://pub.dev/packages/logger)
+
+This is my first real flutter application hope you like it :)
