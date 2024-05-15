@@ -8,4 +8,3 @@ I Just Used:
 - [Floor Database](https://pub.dev/packages/floor)
 - [Logger](https://pub.dev/packages/logger)
 
-This is my first real flutter application hope you like it :)
